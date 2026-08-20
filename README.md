@@ -178,17 +178,15 @@ Saya selalu terbuka untuk kolaborasi, diskusi, atau sekadar ngobrol santai tenta
   </a>
 </div>
 
----
+<br/>
 
-<!-- FOOTER -->
+<!-- WHATSAPP GROUPS -->
 <div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!;Happy+Coding!;Stay+Secure!+🔒;See+You+Soon!;Keep+Building!+🚀" alt="Typing SVG" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:00FF9D&height=120&section=footer" width="100%" />
-  <br/>
-  <p>
-    <b>© 2026 ChuckXzn_101</b><br/>
-    Made with ❤️ and ☕
-  </p>
+  <h3>📱 Join My WhatsApp Groups</h3>
+  <a href="https://chat.whatsapp.com/LmWcalFHDFp2kndKQtZkrX">
+    <img src="https://img.shields.io/badge/WhatsApp_Group_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://chat.whatsapp.com/Fx60T5L0ydLGSdQQqXM45k">
+    <img src="https://img.shields.io/badge/WhatsApp_Group_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </div>
