@@ -5,13 +5,27 @@
 
 <br/>
 
+<!-- MATRIX RAIN ANIMATION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:00FF9D&height=120&section=header&text=ChuckXzn_101&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+</div>
+
+<br/>
+
+<!-- CRYPTO TRADING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=200&color=00FF9D&center=true&vCenter=true&width=600&height=40&lines=📈+BTC+%2460%2C500+%2B2.3%25+🚀;📈+ETH+%243%2C200+%2B1.8%25+💎;📈+SOL+%24155+%2B4.1%25+⚡;📊+MARKET+IS+UP!+BUY+THE+DIP!;🚀+TO+THE+MOON!" alt="Crypto Trading" />
+</div>
+
+<br/>
+
 <!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://github.com/ChuckXzn101">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/chuckxzn_101">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://tiktok.com/@chuckerrorsyntax">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
@@ -165,9 +179,6 @@ Saya selalu terbuka untuk kolaborasi, diskusi, atau sekadar ngobrol santai tenta
 <div align="center">
   <a href="https://github.com/ChuckXzn101">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
