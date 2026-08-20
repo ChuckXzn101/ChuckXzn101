@@ -37,7 +37,7 @@
 class ChuckXzn_101:
     def __init__(self):
         self.name = "ChuckXzn_101"
-        self.role = "Full-Stack Developer"
+        self.role = "Beginner Developer"
         self.location = "Indonesia"
         self.education = "Computer Science"
         self.mission = "Building secure & scalable applications"
@@ -47,7 +47,7 @@ class ChuckXzn_101:
         print("🔒 Securing the web, one bug at a time!")
 ```
 
-Hai! Saya **ChuckXzn_101**, seorang **Full-Stack Developer** yang passionate di bidang pengembangan web dan keamanan siber.
+Hai! Saya **ChuckXzn_101**, seorang **Beginner Developer** yang passionate di bidang pengembangan web dan keamanan siber.
 
 - 🔭 Saat ini saya sedang mengerjakan berbagai proyek open-source
 - 🌱 Saat ini saya sedang mendalami **Cyber Security**
