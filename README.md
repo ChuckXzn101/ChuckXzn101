@@ -1,7 +1,7 @@
 ```markdown
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+ChuckXzn_101;Welcome+to+My+GitHub;Full-Stack+Developer;Security+Enthusiast;Ethical+Hacker;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=800&color=00FF9D&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+ChuckXzn_101;Welcome+to+My+GitHub;Full-Stack+Developer;Security+Enthusiast;Ethical+Hacker;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -212,7 +212,7 @@ Saya selalu terbuka untuk kolaborasi, diskusi, atau sekadar ngobrol santai tenta
 <!-- FOOTER -->
 <div align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Happy+Coding!;Stay+Secure!+🔒" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!;Happy+Coding!;Stay+Secure!+🔒" alt="Typing SVG" />
   <br/>
   <img src="https://raw.githubusercontent.com/ChuckXzn101/ChuckXzn101/output/snake.svg" alt="Snake Animation" />
   <br/>
