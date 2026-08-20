@@ -106,13 +106,19 @@ Hai! Saya **ChuckXzn_101**, seorang **Beginner Developer** yang passionate di bi
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-### 🔒 Cyber Security
+## 🔒 Cyber Security
 <div align="left">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dalfox-FF0000?style=for-the-badge&logo=dalfox&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=john-the-ripper&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hydra&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/DoxBin-000000?style=for-the-badge&logo=doxbin&logoColor=white" />
+  <img src="https://img.shields.io/badge/BreachForums-000000?style=for-the-badge&logo=breachforums&logoColor=white" />
 </div>
 
 ### 🛠️ DevOps & Tools
