@@ -14,7 +14,7 @@
 
 <!-- CRYPTO TRADING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=200&color=00FF9D&center=true&vCenter=true&width=600&height=40&lines=📈+BTC+%2460%2C500+%2B2.3%25+🚀;📈+ETH+%243%2C200+%2B1.8%25+💎;📈+SOL+%24155+%2B4.1%25+⚡;📊+MARKET+IS+UP!+BUY+THE+DIP!;🚀+TO+THE+MOON!" alt="Crypto Trading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=300&color=00FF9D&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%93%88+BTC+%2462%2C450+%2B3.7%25+%F0%9F%9A%80;%F0%9F%93%88+ETH+%243%2C350+%2B2.9%25+%F0%9F%92%8E;%F0%9F%93%88+SOL+%24168+%2B5.2%25+%E2%9A%A1;%F0%9F%93%88+BNB+%24580+%2B1.5%25+%F0%9F%94%A5;%F0%9F%93%8A+MARKET+IS+PUMPING!+BUY+THE+DIP!;%F0%9F%9A%80+TO+THE+MOON!+HODL!" alt="Crypto Trading" />
 </div>
 
 <br/>
