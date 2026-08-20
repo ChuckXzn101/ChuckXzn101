@@ -183,9 +183,9 @@ Saya selalu terbuka untuk kolaborasi, diskusi, atau sekadar ngobrol santai tenta
 <!-- FOOTER -->
 <div align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!;Happy+Coding!;Stay+Secure!+🔒" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!;Happy+Coding!;Stay+Secure!+🔒;See+You+Soon!;Keep+Building!+🚀" alt="Typing SVG" />
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:00FF9D&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:00FF9D&height=120&section=footer" width="100%" />
   <br/>
   <p>
     <b>© 2026 ChuckXzn_101</b><br/>
