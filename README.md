@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=800&color=00FF9D&center=true&vCenter=true&width=700&height=70&lines=Hello+World!+I'm+ChuckXzn_101;Welcome+to+My+GitHub;Full-Stack+Developer;Security+Enthusiast;Ethical+Hacker;Open+Source+Contributor" alt="Typing SVG" />
@@ -30,6 +29,7 @@
 
 <br/>
 
+---
 
 ## 👨‍💻 About Me
 
@@ -123,20 +123,20 @@ Hai! Saya **ChuckXzn_101**, seorang **Beginner Developer** yang passionate di bi
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChuckXzn101&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuckXzn101&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChuckXzn101&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuckXzn101&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&border_radius=10" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChuckXzn101&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&border_radius=10" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChuckXzn101&theme=dark&hide_border=true&bg_color=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&border_radius=10" width="70%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChuckXzn101&theme=matrix&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChuckXzn101&theme=dark&no-frame=true&row=2&column=4" />
 </div>
 
 ---
@@ -146,7 +146,7 @@ Hai! Saya **ChuckXzn_101**, seorang **Beginner Developer** yang passionate di bi
 ### 🔍 [Directory Listing Researcher](https://github.com/ChuckXzn101/directory-listing-researcher)
 > **Tools untuk mencari kerentanan Directory Listing, Information Disclosure, dan Broken Link Hijacking**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChuckXzn101&repo=directory-listing-researcher&theme=chartreuse-dark&hide_border=true&bg_color=0D1117)](https://github.com/ChuckXzn101/directory-listing-researcher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChuckXzn101&repo=directory-listing-researcher&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/ChuckXzn101/directory-listing-researcher)
 
 **Fitur:**
 - ✅ 10.000+ Payload untuk scanning maksimal
@@ -165,7 +165,7 @@ Hai! Saya **ChuckXzn_101**, seorang **Beginner Developer** yang passionate di bi
 ## 📈 WakaTime Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuckXzn101&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&border_radius=10" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuckXzn101&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&border_radius=10" width="70%" />
 </div>
 
 ---
@@ -206,6 +206,7 @@ Saya selalu terbuka untuk kolaborasi, diskusi, atau sekadar ngobrol santai tenta
   </a>
 </div>
 
+---
 
 <!-- FOOTER -->
 <div align="center">
