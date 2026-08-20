@@ -206,7 +206,6 @@ Saya selalu terbuka untuk kolaborasi, diskusi, atau sekadar ngobrol santai tenta
   </a>
 </div>
 
----
 
 <!-- FOOTER -->
 <div align="center">
@@ -220,4 +219,3 @@ Saya selalu terbuka untuk kolaborasi, diskusi, atau sekadar ngobrol santai tenta
     Made with ❤️ and ☕
   </p>
 </div>
-```
